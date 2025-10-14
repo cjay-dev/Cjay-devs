@@ -53,7 +53,7 @@ export function HeroSection() {
           <>
             <div className="space-y-6 slide-up">
               <h1 className="text-6xl md:text-8xl lg:text-9xl font-bold tracking-tight bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-                CEEJEY TECH
+                CEEJAY TECH
               </h1>
               <div className="h-1 w-48 mx-auto bg-gradient-to-r from-primary via-secondary to-accent rounded-full" />
               <p className="text-2xl md:text-3xl font-semibold text-secondary/80 tracking-wide">INCORPORATIVE</p>
